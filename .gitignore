@@ -2,6 +2,9 @@
 .env
 .env.local
 
+# Configuration files with secrets
+config.py
+
 # Python
 __pycache__/
 *.py[cod]
