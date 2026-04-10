@@ -1,0 +1,34 @@
+# Streamlit Web Framework
+streamlit
+# Database Drivers
+neo4j
+pyodbc
+
+# AI/ML
+openai
+
+# Data Processing
+pandas
+numpy
+
+# Visualization
+plotly
+
+# Authentication
+PyJWT
+cryptography
+
+# HTTP Requests
+requests
+# Environment Management
+python-dotenv
+
+# Logging
+colorlog
+
+fastapi
+uvicorn
+
+sqlalchemy
+
+

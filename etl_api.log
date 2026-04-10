@@ -1,0 +1,31 @@
+2026-04-08 18:11:49,838 - INFO - ETL API starting...
+2026-04-08 18:11:49,838 - INFO - === Initial FULL migration starting ===
+2026-04-08 18:46:38,346 - INFO - === Initial FULL migration completed in 2088.51s ===
+2026-04-08 18:46:38,348 - INFO - Scheduler thread started — delta sync every 3600s
+2026-04-09 11:58:01,255 - INFO - ETL API starting...
+2026-04-09 11:58:01,257 - INFO - === Initial FULL migration starting ===
+2026-04-09 12:01:28,833 - INFO - Background scheduler stopped.
+2026-04-09 12:01:28,833 - INFO - ETL API shut down.
+2026-04-09 12:02:55,011 - INFO - ETL API starting...
+2026-04-09 12:02:55,011 - INFO - === Initial FULL migration starting ===
+2026-04-09 12:36:53,146 - INFO - === Initial FULL migration completed in 2038.14s ===
+2026-04-09 12:36:53,148 - INFO - Scheduler started - delta sync every 3600s
+2026-04-09 12:36:53,148 - INFO - [OK] Background delta-sync scheduler started
+2026-04-09 13:36:53,170 - INFO - === Delta sync starting (scheduled) ===
+2026-04-09 14:08:29,355 - INFO - === Delta sync completed in 1896.18s ===
+2026-04-09 15:08:29,364 - INFO - === Delta sync starting (scheduled) ===
+2026-04-09 15:15:24,645 - INFO - === Delta sync completed in 415.28s ===
+2026-04-09 16:15:24,663 - INFO - === Delta sync starting (scheduled) ===
+2026-04-09 17:06:36,486 - INFO - === Delta sync completed in 3071.83s ===
+2026-04-09 18:06:36,497 - INFO - === Delta sync starting (scheduled) ===
+2026-04-09 18:53:06,011 - INFO - === Delta sync completed in 2789.52s ===
+2026-04-10 11:08:04,724 - INFO - ETL API starting...
+2026-04-10 11:08:04,726 - INFO - === Initial FULL migration starting ===
+2026-04-10 11:40:55,359 - INFO - === Initial FULL migration completed in 1970.63s ===
+2026-04-10 11:40:55,363 - INFO - Scheduler started - delta sync every 3600s
+2026-04-10 11:40:55,363 - INFO - [OK] Background delta-sync scheduler started
+2026-04-10 12:40:55,371 - INFO - === Delta sync starting (scheduled) ===
+2026-04-10 13:10:20,144 - INFO - === Delta sync completed in 1764.77s ===
+2026-04-10 14:10:20,161 - INFO - === Delta sync starting (scheduled) ===
+2026-04-10 14:37:22,710 - INFO - === Delta sync completed in 1622.55s ===
+2026-04-10 15:37:22,720 - INFO - === Delta sync starting (scheduled) ===
